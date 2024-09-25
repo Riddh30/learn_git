@@ -1,2 +1,0 @@
-username: amisya
-password: xsuyu123
