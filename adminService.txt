@@ -1,0 +1,2 @@
+The admin manages the app.
+He can add, delete and provide permissions to user
